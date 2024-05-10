@@ -1,0 +1,4 @@
+user = nurlan
+pass    3110
+
+psql user nurik password 3110
